@@ -1,0 +1,5 @@
+api-version: 1.13
+name: RewardMining
+version: 1.0-SNAPSHOT
+main: org.acornmc.rewardmining.RewardMining
+authors: [DrBot]
